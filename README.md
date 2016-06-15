@@ -69,3 +69,5 @@ In Thumbstick Mode you move your finger across the touchpad to move the thumbsti
 By default the left controller starts in Thumbstick Mode and the right controller starts in Button Mode. For most games you will not have to switch between these modes.
 
 ![logo](revive_black.png)
+
+Test
